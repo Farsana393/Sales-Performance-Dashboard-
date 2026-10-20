@@ -12,6 +12,12 @@ The North zone led with about 3.56M, while South contributed about 0.51M.
 Brick and mortar made up 85.77% of sales. E-commerce made up 14.23%.
 Delhi NCR was the strongest market. Recommended: expand in weaker regions and grow e-commerce
 
+# Tools and Skills
+
+- Power BI: DAX measures, slicers, page navigation, funnel, donut and line charts
+- Sales trend, seasonality and market analysis
+- KPI design, data storytelling and business recommendations
+
 <img width="1387" height="796" alt="sales1" src="https://github.com/user-attachments/assets/75d94c17-e994-460f-83c4-9ffab2e5d339" />
 
 <img width="1402" height="789" alt="sales2" src="https://github.com/user-attachments/assets/db09d9b5-e43d-40c8-ab21-cddafdba50e1" />
